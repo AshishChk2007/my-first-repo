@@ -1,2 +1,4 @@
 # my-first-repo
-My personal sandbox for learning Git, version control, and software development
+A personal space to learn Git, GitHub, and version control.
+<br>
+Learning, building, and improving one commit at a time!!
